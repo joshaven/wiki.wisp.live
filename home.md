@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Home -->
 <style>
 div.towerBkg {
-    background-image: url("/uploads/pexels-photo-270286-2048-x-1367.jpeg "Pexels Photo 270286 2048 X 1367");
+    background-image: url("/uploads/pexels-photo-270286-2048-x-1367.jpeg");
 }
 </style>
 <div class="towerBKG">
