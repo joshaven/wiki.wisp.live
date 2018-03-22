@@ -3,6 +3,7 @@
 <style>
 div.towerBkg {
     background-image: url("/uploads/pexels-photo-270286-2048-x-1367.jpeg");
+		background-color: red;
 }
 </style>
 <div class="towerBKG">
