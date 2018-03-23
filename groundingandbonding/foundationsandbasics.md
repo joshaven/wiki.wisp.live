@@ -7,7 +7,7 @@ All electricity is energy which comes from charged particles. I think that AC an
 
 DC stands for Direct Current, lightning and batteries are two common forms of DC. AC stands for Alternating Current and it is the type of power that comes from utility companies. Both AC and DC systems are the same in that they are charged particles and you can convert one to the other.
 
-In both AC and DC systems current is supposed to flow between two conductors. With AC it flows between the load (black) and common (white) conductor and with DC it flows between the positive (red) and negative (black) conductor. In either system, grounds are often green or bare wire. All conductors should be properly sized to carry the proper voltage and amperage loads.
+In both AC and DC systems current flows through the conductors. With alternating current (AC) it flows back and forth through the circuit and with direct current (DC) it flows in a single direction between the positive (red) and negative (black) conductors. In either system, grounds are often green or bare wire. All conductors should be properly sized to carry the proper voltage and amperage loads.
 
 In most cases, when it comes safety handling of electric systems, the voltage and amperage is of more significance than the fact of the current alternating or not. For example, both an AC or DC system at 120 volts is more dangerous than the same system at 12 volts. In practical terms, a system with 48 volts and above is often enough to feel a poke in most conditions whereas you are unlikely to be shocked at 12 volts or 24 volt systems. The higher the voltage the more likely you are to be shocked or be harmed by shock.
 
