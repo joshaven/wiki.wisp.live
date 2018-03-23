@@ -1,7 +1,7 @@
 <!-- TITLE: Grounding and Bonding -->
 <!-- SUBTITLE: A quick summary of Grounding and bonding -->
 
-[/](Home) >> Grounding and Bonding
+[Home](/) >> Grounding and Bonding
 # Grounding and Bonding
 * [Foundations and Basics](/groundingandbonding/foundationsandbasics)
 * [Grounding Resources](/groundingandbonding/links)
