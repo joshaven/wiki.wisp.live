@@ -7,7 +7,7 @@ This crowd sourced community wiki exists to further the WISP industry.  The view
 [Grounding and Bonding](/groundingandbonding)
 
 # Authors
-A page dedicated to those who participate with this wiki:  http://wiki.wisp.live/authors
+A page dedicated to those who participate with this wiki:  [Authors](http://wiki.wisp.live/authors)
 
 ## Topics that may be of interest
 * Network Design
