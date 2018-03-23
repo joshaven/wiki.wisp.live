@@ -17,7 +17,7 @@ I believe that grounding is one of the most often misunderstood topics for WISP'
 * Intro to Surge & ESD Protection
 * Surge Protection Options
 * Common Mistakes to Avoid
-* Requirements, ideals and what corners cutting
+* Requirements, ideals and what corners can be cut
 * Common Installations
 * Guyed & Self Support Communication Towers
 * Farm Installations (Grain Leg, Silos, etc)
