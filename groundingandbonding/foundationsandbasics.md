@@ -1,6 +1,7 @@
 <!-- TITLE: Foundations and Basics -->
 <!-- SUBTITLE: by Joshaven Potter -->
 
+[Grounding and Bonding](/groundingandbonding) >> Foundations and Basics
 # What is Electricity
 All electricity is energy which comes from charged particles. I think that AC and DC is often something that operators don't think much about. In terms of efficiency, safety and components required you will find a big difference between AC and DC WISP systems however in terms of protecting the systems from surge damage you will find little to no difference.
 
