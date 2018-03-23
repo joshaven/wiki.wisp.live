@@ -34,8 +34,8 @@ There is a lot of confusion surrounding the idea of grounding and bonding.  It i
 The reason to care about the terms grounding and bonding is to help clarify that goal isn't just to connect your equipment to a patch dirt.  When you ground your tower and/or your equipment you need to be aware that the goal is to ensure that any transfer of energy happens via a safe path.  Bonding the major systems together is important and often overlooked.  To have a safe network for you and your equipment, you must have bonded connections other than your data cables which join the electrical ground system to the tower ground system and to your routers, switches, radios, antennas and any other equipment or conductive components.
 
 
-## Primary Page Author
+### Primary Page Author
 Joshaven Potter 
 
-## Page Contributors
+### Page Contributors
 *
