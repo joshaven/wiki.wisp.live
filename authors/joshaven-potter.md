@@ -3,6 +3,7 @@
 
 # Joshaven Potter
 ![Joshaven 100 High](/uploads/joshaven-100-high.jpg "Joshaven 100 High")
+
 I began my ISP career in 2001 as a network administrator for a dial-up ISP. In order to meet customers needs for higher bandwidth, I designed and successfully implemented our area’s first Wireless ISP. In my early professional years, I worked as a network administrator, wireless installer, software developer, and network operations analyst. Later I moved on to technical director and business owner, which has equipped me to provide top to bottom consulting to my clients.
 
 I began to become influential in the WISP industry in 2011 by following and contributing to multiple message boards and forums. For years I worked hard to daily provide multiple best answers to the hardest questions that I could find. This dedication resulted in an unexpected demand for consulting services both domestically and internationally, due in large part, to people running across my answers while looking for solutions.
