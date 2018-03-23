@@ -1,4 +1,4 @@
-<!-- TITLE: Grounding and bonding -->
+<!-- TITLE: Grounding and Bonding -->
 <!-- SUBTITLE: A quick summary of Grounding and bonding -->
 
 # Grounding and Bonding
