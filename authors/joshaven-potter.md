@@ -25,7 +25,9 @@ Please show your appreciation for my contributions with a donation to my persona
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </div>
+
 -----
+
 ## Site Contributions
 * [Grounding and Bonding >> Foundation and Basics](/groundingandbonding/foundationsandbasics)
 * [Grounding and Bonding >> Links](/groundingandbonding/links)
