@@ -3,6 +3,8 @@
 
 [Home](/) >> Grounding and Bonding
 # Grounding and Bonding
+I believe that grounding is one of the most often misunderstood topics for WISP's that can most benefit them.  I hope you will find these topics helpful.
+
 * [Foundations and Basics](/groundingandbonding/foundationsandbasics)
 * [Links](/groundingandbonding/links)
 
