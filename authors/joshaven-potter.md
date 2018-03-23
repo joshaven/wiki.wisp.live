@@ -25,6 +25,6 @@ Please show your appreciation for my contributions with a donation to my persona
 </form>
 
 -----
-## Articles
+## Site Contributions
 * [Grounding and Bonding >> Foundation and Basics](/groundingandbonding/foundationsandbasics)
 * [Grounding and Bonding >> Links](/groundingandbonding/links)
