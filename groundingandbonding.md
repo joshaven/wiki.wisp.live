@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Grounding and bonding -->
 
 # Grounding and Bonding
-[Foundations and Basics](/groundingandbonding/foundationsandbasics)
+* [Foundations and Basics](/groundingandbonding/foundationsandbasics)
 
 ## Topics that may be interesting to cover
 * AC System Grounding
