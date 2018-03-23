@@ -37,8 +37,8 @@ The reason to care about the terms grounding and bonding is to help clarify that
 Sadly many radios are needlessly lost each year because of a failure to properly bond tower grounds to utility grounds.  It isn't uncommon for a potential difference to exist between two areas of earth, in fact, you should expect it.  When you have a radio powered by the utility system and mounted to a grounded tower than you have just bonded two ground systems with a data cable which might be the lowest resistance path between the two systems... Furthermore, towers and antennas can build up static electricity from wind when the atmospheric conditions are right.  Eventually, if your equipment isn't grounded well, stored static electricity can build up enough energy to discharge and fry your radio with an ESD (electrostatic discharge).  Actually, much of what I've seen blamed on lightning is most likely an ESD event.
 
 # Credits
-## Author
-[Joshaven Potter](/authors/joshaven-potter) If you find this information valuable, show your appreciation with a Paypal donation.
+## About the Author
+[Joshaven Potter](/authors/joshaven-potter) has been working in and consulting for the WISP community for close to two decades.  If you find this information valuable and want to show your appreciation with a Paypal donation or contact the author please follow [this link](/authors/joshaven-potter) to the author's page.
 
 ## Page Contributors
 *
