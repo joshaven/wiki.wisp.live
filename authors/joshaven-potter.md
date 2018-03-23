@@ -10,10 +10,11 @@ I began to become influential in the WISP industry in 2011 by following and cont
 
 I have continued deepening and widening my knowledge in the WISP industry by building and strengthening WISPs all around the world through consulting. My focus as a WISP consultant is “developing profitability”.
 
-## Links
+## Personal Links
 [Persobal Site](http://joshaven.com)
 [WISP Consulting](http://wisp.live)
 [Recognition by Cambium Networks as a professional WISP consultant](https://www.cambiumnetworks.com/ePMP_consultants/)
+[My LinkedIn](https://www.linkedin.com/in/joshaven/)
 
 ## Contacts
 [Email Me](mailto:josh@wisp.live)
