@@ -4,7 +4,7 @@
 [Home](/) >> Grounding and Bonding
 # Grounding and Bonding
 * [Foundations and Basics](/groundingandbonding/foundationsandbasics)
-* [Grounding Resources](/groundingandbonding/links)
+* [Links](/groundingandbonding/links)
 
 ## Grounding topics that may be interesting to cover
 * AC System Grounding
