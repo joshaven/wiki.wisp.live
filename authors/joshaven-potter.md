@@ -4,4 +4,4 @@
 # Joshaven Potter
 [Persobal Site](http://joshaven.com)
 [WISP Consulting](http://wisp.live)
-[Email Me](mailto://josh@wisp.live)
+[Email Me](mailto:josh@wisp.live)
