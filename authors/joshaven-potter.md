@@ -8,7 +8,7 @@ I began my ISP career in 2001 as a network administrator for a dial-up ISP. In o
 
 I began to become influential in the WISP industry in 2011 by following and contributing to multiple message boards and forums. For years I worked hard to daily provide multiple best answers to the hardest questions that I could find. This dedication resulted in an unexpected demand for consulting services both domestically and internationally, due in large part, to people running across my answers while looking for solutions.
 
-I have continued deepening and widening my knowledge in the WISP industry by building and strengthening WISPs all around the world through consulting. My focus as a WISP consultant is “developing profitability”. The ePMP product line has helped me, more than any other product, deliver on my promise to develop profitability for WISP’s all around the world. It is truly an honor to be recognized by Cambium as a Wireless Professional.
+I have continued deepening and widening my knowledge in the WISP industry by building and strengthening WISPs all around the world through consulting. My focus as a WISP consultant is “developing profitability”.
 
 [Persobal Site](http://joshaven.com)
 [WISP Consulting](http://wisp.live)
