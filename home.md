@@ -5,6 +5,6 @@ This crowd sourced community wiki exists to further the WISP industry.  The view
 
 # Main Categories 
 [MikroTik](/mikrotik)
-[Grounding and Bonding](/grounding_and_bonding)
+[Grounding and Bonding](/groundingandbonding)
 
 [Privacy Statement](/privacy)
