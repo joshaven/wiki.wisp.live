@@ -18,3 +18,17 @@ Electricity is energy resulting from charged particles but we need to further br
 Watts are the measurement of the amount of energy which is a relationship between volts and amps.  Voltage is the potential difference in energy and amperage is the volume of the energy.  This is described as: Watts = Volts * Amps.  12 Volts at 4 Amps is equal to 48 Watts.  24 volts at 2 amps is also 48 watts.  Understanding this become very practical when designing tower sites for extended run times.
 
 Another very practical thing to understand when working with batteries is Ah or amp hours which is electric charge potential multiplied by time (hours).  1 amp hour means one amp delivered for one hour.  A decently large deep cycle battery might be 12v 100Ah.  This means it can store enough energy to deliver 10 amps for 10 hours.  Don't count on that however, you don't want to run a battery completely out of energy and they don't retain 100% capacity for long so if you are counting on Ah then figure 50% of the battery so if you draw 10amps on a 12v battery expect it to last for 5 hours.
+
+# Human Safety First
+You should be following the electrical code which ensures safety, if you are in the USA be sure to follow the NEC (National Electric Code).
+
+# Equipment Saftey Essential Concepts
+When it comes to surviving an electrical surge there are a few essential principals that will govern the survival of your equipment.  Interestingly your equipment having a wire going from a ground lug to a ground rod is not the key to survival and in some instances will cause your equipment to be destroyed.  This doesn't mean that grounding doesn't work or that it works against you or that it is unpredictable.
+
+The first concept you need to understand to survive a surge is that opposite charges attract to each other (negative to positive).  It may be an interesting to talk about lightning going up or down but this isn't the point that I'm driving at.  When applying this essential concept to your system you need to think that the charges in sky and the charges in the ground are attracted to one another and one way or another they will connect.  Being in this path means carrying a surge of energy.  Furthermore the charges are not coming form a single point but from an area in the sky and and area in the ground.
+
+The second essential concept is that electricity will follow the path of least resistance.  If there is a charge in a large area of land that is interconnected by a grid of ground rods, utility poles, and power lines that is opposite of a charge in the sky than there is a good chance for a lightning strike between the utility power grid and the sky because the metal power lines and ground rods offer a lower resistance path than other paths for equalizing the charges.  This is one reason that it is common to see blackened power receptacles at locations that have suffered a damaging surge.
+
+
+
+
