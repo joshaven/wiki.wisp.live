@@ -38,7 +38,7 @@ Sadly many radios are needlessly lost each year because of a failure to properly
 
 # Credits
 ## About the Author
-[Joshaven Potter](/authors/joshaven-potter) has been working in and consulting for the WISP community for close to two decades.  If you find this information valuable and want to show your appreciation with a Paypal donation or contact the author please follow [this link](/authors/joshaven-potter) to the author's page.
+[Joshaven Potter](/authors/joshaven-potter) has been working in and consulting for the WISP community for close to two decades.  If you find this information valuable and want to show your appreciation with a Paypal donation or if you want to contact the author please follow [this link](/authors/joshaven-potter) to the author's page.
 
 ## Page Contributors
-*
+* Place holder for page contributors
