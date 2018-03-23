@@ -38,7 +38,7 @@ Sadly many radios are needlessly lost each year because of a failure to properly
 
 # Credits
 ## Author
-Joshaven Potter 
+[Joshaven Potter](/authors/joshaven-potter)
 
 ## Page Contributors
 *
