@@ -18,7 +18,8 @@ Cordless Drill - Preferably a compact impact driver. Significantly better batter
 Crimping Tool (i.e. Klien 1005) (nice if you are using NID boxes that need grounding)
 Wire Strippers
 Ratchetting combo wrench for antenna mounts (http://www.gearwrench.com/wrenches/ratcheting/quadboxtm)
-
+Installer drill bit (https://vermontamerican.com/products/bell-hanger-installer-drill-bits/)
+Flexible drill bit and accessories (https://www.kleintools.com/catalog/holemaking/flexible-drill-bits) These take some practice and skill, probably best to mock up a wall for new installers if this is something they need to do. (https://www.youtube.com/watch?v=ksOU0XsAEMY)
 # Climbing Equipment
 Squids Tool Lanyards
 
