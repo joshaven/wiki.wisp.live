@@ -11,7 +11,7 @@ I have continued deepening and widening my knowledge in the WISP industry by bui
 
 [Persobal Site](http://joshaven.com)
 [WISP Consulting](http://wisp.live)
-[Recognition by Cambium Networks as a WISP professional consultant ](https://www.cambiumnetworks.com/ePMP_consultants/)
+[Recognition by Cambium Networks as a professional WISP consultant](https://www.cambiumnetworks.com/ePMP_consultants/)
 [Email Me](mailto:josh@wisp.live)
 
 -----
