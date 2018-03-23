@@ -17,7 +17,6 @@ I have continued deepening and widening my knowledge in the WISP industry by bui
 
 Please show your appreciation for my contributions with a donation to my personal Paypal account. 
 
-
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="STD8KFVHLMN6L">
@@ -25,6 +24,7 @@ Please show your appreciation for my contributions with a donation to my persona
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+-----
 ## Articles
 * [Grounding and Bonding >> Foundation and Basics](/groundingandbonding/foundationsandbasics)
 * [Grounding and Bonding >> Links](/groundingandbonding/links)
