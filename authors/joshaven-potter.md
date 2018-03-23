@@ -18,7 +18,7 @@ I have continued deepening and widening my knowledge in the WISP industry by bui
 ## Contacts
 [Email Me](mailto:josh@wisp.live)
 
------
+## Donate
 
 <div align="center">
 Please show your appreciation for my contributions with a donation to my personal Paypal account.<br><br>
@@ -29,8 +29,6 @@ Please show your appreciation for my contributions with a donation to my persona
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </div>
-
------
 
 ## Site Contributions
 * [Grounding and Bonding >> Foundation and Basics](/groundingandbonding/foundationsandbasics)
