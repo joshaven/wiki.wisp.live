@@ -17,7 +17,7 @@ I have continued deepening and widening my knowledge in the WISP industry by bui
 -----
 
 <div align="center">
-Please show your appreciation for my contributions with a donation to my personal Paypal account.<br>
+Please show your appreciation for my contributions with a donation to my personal Paypal account.<br><br>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="STD8KFVHLMN6L">
