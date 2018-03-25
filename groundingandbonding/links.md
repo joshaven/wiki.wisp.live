@@ -7,5 +7,5 @@
 * [Antenna System Bonding and Grounding Requirements in the USA Whitham D. Reeve (© 2012 W. Reeve)](/uploads/groundingandbonding/antennasystemgroundingrequirements-reeve.pdf "Antennasystemgroundingrequirements Reeve")
 * [Grounding and Bonding for Network Facilities – Design Fundamentals: Att-TP-76416-001](/uploads/groundingandbonding/att-tp-76416-001.pdf "Att Tp 76416 001")
 * [Motorola R 56 2005 Manual](/uploads/groundingandbonding/motorola-r-56-2005-manual.pdf "Motorola R 56 2005 Manual")
-* [Military Handbook Grounding, Bonding and Shielding for Electronic Equipments and Facilities Volume 1](/uploads/groundingandbonding/hdbk-419-a-vol-1.pdf "Hdbk 419 A Vol 1")
-* [Military Handbook Grounding, Bonding and Shielding for Electronic Equipments and Facilities Volume 2](/uploads/groundingandbonding/hdbk-419-a-vol-2.pdf "Hdbk 419 A Vol 2")
+* [Military Handbook: Grounding, Bonding and Shielding for Electronic Equipments and Facilities Volume 1](/uploads/groundingandbonding/hdbk-419-a-vol-1.pdf "Hdbk 419 A Vol 1")
+* [Military Handbook: Grounding, Bonding and Shielding for Electronic Equipments and Facilities Volume 2](/uploads/groundingandbonding/hdbk-419-a-vol-2.pdf "Hdbk 419 A Vol 2")
