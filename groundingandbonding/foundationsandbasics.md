@@ -30,6 +30,7 @@ Another very practical thing to understand when working with batteries is Ah or 
 You should be following the electrical code which ensures safety if you are in the USA be sure to follow the NEC (National Electric Code).
 # Equipment Saftey Essential Concepts
 <img src="/uploads/groundingandbonding/dark-evening-lightning-66867-sm.jpg" alt="Dark Evening Lightning 66867 Sm" style="width:100%">
+
 When it comes to surviving an electrical surge there are a few essential principals that will govern the survival of your equipment.  Interestingly your equipment having a wire going from a ground lug to a ground rod is not the key to survival and in some instances will cause your equipment to be destroyed.  This doesn't mean that grounding doesn't work or that it works against you or that it is unpredictable.
 
 The first concept you need to understand to survive a surge is that opposite charges attract to each other (negative to positive).  It may be interesting to talk about lightning going up or down but this isn't the point that I'm driving at.  When applying this essential concept to your system you need to think that the charges in the sky and the charges in the ground are attracted to one another and one way or another they will connect.  Being in this path means carrying a surge of energy.  Furthermore, the charges are not coming from a single point but from an area in the sky and area in the ground.
