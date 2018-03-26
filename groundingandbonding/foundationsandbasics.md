@@ -44,7 +44,7 @@ The reason to care about the terms grounding and bonding is to help clarify that
 
 Sadly many radios are needlessly lost each year because of a failure to properly bond tower grounds to utility grounds.  It isn't uncommon for a potential difference to exist between two areas of earth, in fact, you should expect it.  When you have a radio powered by the utility system and mounted to a grounded tower than you have just bonded two ground systems with a data cable which might be the lowest resistance path between the two systems... Furthermore, towers and antennas can build up static electricity from wind when the atmospheric conditions are right.  Eventually, if your equipment isn't grounded well, stored static electricity can build up enough energy to discharge and fry your radio with an ESD (electrostatic discharge).  Actually, much of what I've seen blamed on lightning is most likely an ESD event.
 
-## Why the bonding of ground systems is essential.
+## Helpful Citations
 In the event of a lightning strike with unbonded ground rods several feet apart, you will have a large voltage difference in the instance of time that the lightning is dispersing into the earth due to resistance in the soil.  If you have equipment which attaches to both of these ground sources, for example to the utility company for power and a grounded tower or mast, then your equipment may very well be the path of least resistance to equalize this large voltage potential.  It is therefore essential, not to mention required by NEC 810.21(J), to bond all ground systems with adequately sized cable. -- (H. Ward Silver)
 
 # Going Further
