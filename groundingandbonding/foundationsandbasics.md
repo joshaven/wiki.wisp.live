@@ -29,7 +29,7 @@ Another very practical thing to understand when working with batteries is Ah or 
 # Human Safety First
 You should be following the electrical code which ensures safety if you are in the USA be sure to follow the NEC (National Electric Code).
 # Equipment Saftey Essential Concepts
-<div style="text-align:center;"><img src="/uploads/groundingandbonding/dark-evening-lightning-66867-sm.jpg" alt="Dark Evening Lightning 66867 Sm" style="width:98%"></div>
+<img src="/uploads/groundingandbonding/dark-evening-lightning-66867-sm.jpg" alt="Dark Evening Lightning 66867 Sm" style="width:100%;margin:1em;">
 
 When it comes to surviving an electrical surge there are a few essential principals that will govern the survival of your equipment.  Interestingly your equipment having a wire going from a ground lug to a ground rod is not the key to survival and in some instances will cause your equipment to be destroyed.  This doesn't mean that grounding doesn't work or that it works against you or that it is unpredictable.
 
