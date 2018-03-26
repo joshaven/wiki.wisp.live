@@ -40,7 +40,7 @@ Sadly many radios are needlessly lost each year because of a failure to properly
 In the event of a lightning strike with unbonded ground rods several feet apart, you will have a large voltage difference in the instance of time that the lightning is dispersing into the earth due to resistance in the soil.  If you have equipment which attaches to both of these ground sources, for example to the utility company for power and a grounded tower or mast, then your equipment may very well be the path of least resistance to equalize this large voltage potential.  It is therefore essential, not to mention required by NEC 810.21(J), to bond all ground systems with adequately sized cable. -- (H. Ward Silver)
 
 # Going Further
-For more on grounding check out my other info here [Grounding and Bonding](/groundingandbonding)
+For more on this subject check our other wiki pages on  [Grounding and Bonding](/groundingandbonding)
 # Credits
 ## About the Author
 [Joshaven Potter](/authors/joshaven-potter) has been working in and consulting for the WISP community for close to two decades.  If you find this information valuable and want to show your appreciation with a Paypal donation or if you want to contact the author please follow [this link](/authors/joshaven-potter) to the author's page.
