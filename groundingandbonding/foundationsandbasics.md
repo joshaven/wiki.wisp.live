@@ -12,16 +12,17 @@ In both AC and DC systems current flows through the conductors. With alternating
 In most cases, when it comes safety handling of electric systems, the voltage and amperage is of more significance than the fact of the current alternating or not. For example, both an AC or DC system at 120 volts is more dangerous than the same system at 12 volts. In practical terms, a system with 48 volts and above is often enough to feel a poke in most conditions whereas you are unlikely to be shocked at 12 volts or 24 volt systems. The higher the voltage the more likely you are to be shocked or be harmed by shock.
 
 In order to put some numbers to things, a car battery is generally 12 volts and can often deliver near 1000 amps which is a lot of power but you won't feel it by touching the terminals. A common receptacle is 120 volts and has a 20amp breaker in the USA but touching the terminals has been highly unrecommended by every mom for decades for good reason. Lightning strikes can be 100,000,000,000 volts and 50,000 amps and it is exceptionally dangerous.
-
-More info:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mvuHsu8S6v8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 # Understanding Watts, Volts, Amps, and Ohms
 Electricity is energy resulting from charged particles but we need to further break down energy to get an idea of what we are working with.  The three most basic components in working with this energy are voltage, current, and resistance.  Voltage is measured in volts, current is measured in amps and resistance is measured in ohms.
 
 Watts are the measurement of the amount of energy which is a relationship between volts and amps.  Voltage is the potential difference in energy and amperage is the volume of the energy.  This is described as Watts = Volts * Amps.  12 Volts at 4 Amps is equal to 48 Watts.  24 volts at 2 amps is also 48 watts.  Understanding this becomes very practical when designing tower sites for extended run times.
 
 Another very practical thing to understand when working with batteries is Ah or amp hours which is electric charge potential multiplied by time (hours).  1 amp hour means one amp delivered for one hour.  A decently large deep cycle battery might be 12v 100Ah.  This means it can store enough energy to deliver 10 amps for 10 hours.  Don't count on that, however, you don't want to run a battery completely out of energy and they don't retain 100% capacity for long so if you are counting on Ah then figure 50% of the battery so if you draw 10amps on a 12v battery expect it to last for 5 hours.
+
+## More info on the basics of Watts, Volts and Amps:
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mvuHsu8S6v8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 # Human Safety First
 You should be following the electrical code which ensures safety if you are in the USA be sure to follow the NEC (National Electric Code).
