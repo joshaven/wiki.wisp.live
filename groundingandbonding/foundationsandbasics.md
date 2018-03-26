@@ -13,6 +13,9 @@ In most cases, when it comes safety handling of electric systems, the voltage an
 
 In order to put some numbers to things, a car battery is generally 12 volts and can often deliver near 1000 amps which is a lot of power but you won't feel it by touching the terminals. A common receptacle is 120 volts and has a 20amp breaker in the USA but touching the terminals has been highly unrecommended by every mom for decades for good reason. Lightning strikes can be 100,000,000,000 volts and 50,000 amps and it is exceptionally dangerous.
 
+More info:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mvuHsu8S6v8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 # Understanding Watts, Volts, Amps, and Ohms
 Electricity is energy resulting from charged particles but we need to further break down energy to get an idea of what we are working with.  The three most basic components in working with this energy are voltage, current, and resistance.  Voltage is measured in volts, current is measured in amps and resistance is measured in ohms.
 
