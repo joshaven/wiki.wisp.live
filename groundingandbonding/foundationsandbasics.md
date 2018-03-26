@@ -22,8 +22,8 @@ Watts are the measurement of the amount of energy which is a relationship betwee
 Another very practical thing to understand when working with batteries is Ah or amp hours which is electric charge potential multiplied by time (hours).  1 amp hour means one amp delivered for one hour.  A decently large deep cycle battery might be 12v 100Ah.  This means it can store enough energy to deliver 10 amps for 10 hours.  Don't count on that, however, you don't want to run a battery completely out of energy and they don't retain 100% capacity for long so if you are counting on Ah then figure 50% of the battery so if you draw 10amps on a 12v battery expect it to last for 5 hours.
 
 ## More info on the basics of Watts, Volts and Amps:
-<div align="center">
-<iframe width="420" height="236" src="https://www.youtube.com/embed/mvuHsu8S6v8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div style="text-align:center; padding:1em">
+<iframe width="420" height="236" src="https://www.youtube.com/embed/mvuHsu8S6v8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="max-width: 100%;"></iframe>
 </div>
 
 # Human Safety First
