@@ -1,5 +1,5 @@
 <!-- TITLE: Joshaven Potter -->
-<!-- SUBTITLE Consultant -->
+<!-- SUBTITLE: Consultant -->
 
 # Joshaven Potter
 ![Joshaven 100 High](/uploads/joshaven-100-high.jpg "Joshaven 100 High")
