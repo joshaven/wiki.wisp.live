@@ -38,7 +38,7 @@ The first concept you need to understand to survive a surge is that opposite cha
 The second essential concept is that electricity will follow the path of least resistance.  If there is a charge in a large area of land that is interconnected by a grid of ground rods, utility poles, and power lines that is opposite of a charge in the sky than there is a good chance for a lightning strike between the utility power grid and the sky because the metal power lines and ground rods offer a lower resistance path than other paths for equalizing the charges.  This is one reason that it is common to see blackened power receptacles at locations that have suffered a damaging surge.
 
 # Grounding vs Bonding
-<img src="/uploads/groundingandbonding/ummq-6328.jpg" alt="Tower Ground" style="float:right;margin:1em;">
+<img src="/uploads/groundingandbonding/ummq-6328.jpg" alt="Tower Ground" style="float:right;margin:1em; width: 100px;">
 
 There is a lot of confusion surrounding the idea of grounding and bonding.  It is helpful to understand the differences in the terms. Grounding is the connection of something to the ground and bonding is connecting two or more things together.  You can bond a tower to the ground electrodes which is generally what is meant when someone says they ground a tower. You don't, however, ground an antenna to a tower you bond it to a grounded tower or bond it to a ground wire.  Grounds and bonds are part of a grounding system and understanding the basic concepts and purposes of these terms will help you install equipment in a way that can stand up to the test of time.
 
