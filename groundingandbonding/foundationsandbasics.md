@@ -23,7 +23,7 @@ Another very practical thing to understand when working with batteries is Ah or 
 
 ## More info on the basics of Watts, Volts and Amps:
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mvuHsu8S6v8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="420" height="236" src="https://www.youtube.com/embed/mvuHsu8S6v8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 # Human Safety First
