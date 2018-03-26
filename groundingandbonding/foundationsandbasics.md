@@ -39,6 +39,7 @@ The second essential concept is that electricity will follow the path of least r
 
 # Grounding vs Bonding
 <img src="/uploads/groundingandbonding/ummq-6328.jpg" alt="Tower Ground" style="float:right;margin:4px 10px 0 0;">
+
 There is a lot of confusion surrounding the idea of grounding and bonding.  It is helpful to understand the differences in the terms. Grounding is the connection of something to the ground and bonding is connecting two or more things together.  You can bond a tower to the ground electrodes which is generally what is meant when someone says they ground a tower. You don't, however, ground an antenna to a tower you bond it to a grounded tower or bond it to a ground wire.  Grounds and bonds are part of a grounding system and understanding the basic concepts and purposes of these terms will help you install equipment in a way that can stand up to the test of time.
 
 The reason to care about the terms grounding and bonding is to help clarify that goal isn't just to connect your equipment to a patch dirt.  When you ground your tower and/or your equipment you need to be aware that the goal is to ensure that any transfer of energy happens via a safe path.  Bonding the major systems together is important and often overlooked.  To have a safe network for you and your equipment, you must have bonded connections other than your data cables which join the electrical ground system to the tower ground system and to your routers, switches, radios, antennas and any other equipment or conductive components.
