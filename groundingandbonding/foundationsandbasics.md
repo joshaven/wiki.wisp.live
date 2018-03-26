@@ -3,7 +3,8 @@
 
 [Home](/) >> [Grounding and Bonding](/groundingandbonding) >> Foundations and Basics
 # What is Electricity
-![Cable Current Distribution 47307 Sm](/uploads/groundingandbonding/cable-current-distribution-47307-sm.jpg "Cable Current Distribution 47307 Sm")
+<img src="/uploads/groundingandbonding/cable-current-distribution-47307-sm.jpg" alt="Power Lines" style="float:right;margin:4px 10px 0 0;">
+
 All electricity is energy which comes from charged particles. I think that AC and DC is often something that operators don't think much about. In terms of efficiency, safety and components required you will find a big difference between AC and DC WISP systems however in terms of protecting the systems from surge damage you will find little to no difference.
 
 DC stands for Direct Current, lightning and batteries are two common forms of DC. AC stands for Alternating Current and it is the type of power that comes from utility companies. Both AC and DC systems are the same in that they are charged particles and you can convert one to the other.
