@@ -4,3 +4,4 @@
 # Authors
 [Joshaven Potter](/authors/joshaven-potter)
 [Carlan Wray](/authors/carlan-wray)
+[Julian Lorah](/authors/julian-lorah)
