@@ -1,5 +1,5 @@
-<!-- TITLE: Basics -->
-<!-- SUBTITLE: A quick summary of Basics -->
+<!-- TITLE: Foundations -->
+<!-- SUBTITLE: A quick summary of Foundations -->
 
 # Basics
-* [Wirelss Basics:: Foundations of Wireless System](/basics/wireless)
+* [Wirelss Foundations:: Foundations of Wireless System](/foundations/wireless)
