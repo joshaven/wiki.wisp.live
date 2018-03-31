@@ -5,6 +5,7 @@ This crowd sourced community wiki exists to further the WISP industry.  The view
 
 # Main Categories 
 [Basics and Theory](/basics)
+	[Wireless Basics](/basics/wireless)
 [Grounding and Bonding](/groundingandbonding)
 [Tools and Equipment](/toolsandequipment)
 
