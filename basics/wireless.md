@@ -1,5 +1,7 @@
 <!-- TITLE: Wireless Basics -->
-<!-- SUBTITLE: A quick summary of Wirelessbasics -->
+<!-- SUBTITLE: Foundations of Wireless System -->
+
+[Home](/) >> [Basics](/basics) >> Wireless
 
 # Communications
 All communication, whether human or electronic, is half or full duplex and delivered at various levels of complexity. Classic examples might be a full duplex telephone call versus a half-duplex CB Radio conversation, and low complexity Morse code versus a highly complex spoken language.
@@ -17,3 +19,9 @@ At the writing of this article (May 2018), there isn't a standards-based MAC pro
 
 Choosing the right PtMP solution is not only a matter of finding the device that can transmit the most packets per second but also finding the right device that operates on the right frequencies and has a MAC protocol that fits your needs.
 
+# Credits
+## About the Author
+[Joshaven Potter](/authors/joshaven-potter) has been working in and consulting for the WISP community for close to two decades.  If you find this information valuable and want to show your appreciation with a Paypal donation or if you want to contact the author please follow [this link](/authors/joshaven-potter) to the author's page.
+
+## Page Contributors
+* Place holder for page contributors
