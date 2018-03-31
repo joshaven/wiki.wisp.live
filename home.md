@@ -4,8 +4,8 @@
 This crowd sourced community wiki exists to further the WISP industry.  The views expressed and the information contained is the best effort of the authors of the content coming with no warranty.  This is not a substitute for engineering or legal advice.
 
 # Main Categories 
-* [Basics and Theory](/basics)
-  * [Wireless Basics](/basics/wireless)
+* [Foundations](/foundations)
+  * [Wireless Foundations](/foundations/wireless)
 * [Grounding and Bonding](/groundingandbonding)
   * [Foundations and Basics](/groundingandbonding/foundationsandbasics)
   * [Links](/groundingandbonding/links)
