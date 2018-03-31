@@ -4,10 +4,10 @@
 This crowd sourced community wiki exists to further the WISP industry.  The views expressed and the information contained is the best effort of the authors of the content coming with no warranty.  This is not a substitute for engineering or legal advice.
 
 # Main Categories 
-[Basics and Theory](/basics)
-	[Wireless Basics](/basics/wireless)
-[Grounding and Bonding](/groundingandbonding)
-[Tools and Equipment](/toolsandequipment)
+* [Basics and Theory](/basics)
+  * [Wireless Basics](/basics/wireless)
+* [Grounding and Bonding](/groundingandbonding)
+* [Tools and Equipment](/toolsandequipment)
 
 # Authors
 A page dedicated to those who participate with this wiki:  [Authors](http://wiki.wisp.live/authors)
