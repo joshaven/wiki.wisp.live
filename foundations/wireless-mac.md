@@ -1,5 +1,9 @@
 <!-- TITLE: MAC Primer -->
 <!-- SUBTITLE: Media Access Control Primer -->
+<media property="og:site_name" content="wiki.wisp.live">
+<media property="og:title" content="Media Access Control Primer">
+<media property="og:description" content="The basics of how communicaiton works on access points">
+<media property="og:image" content="https://wiki.wips.live/uploads/foundations-wireless/accessory-blur-brass-859933-sm.jpg">
 
 [Home](/) >> [Foundations](/foundations) >> MAC
 
