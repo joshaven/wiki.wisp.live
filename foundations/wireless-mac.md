@@ -1,9 +1,11 @@
 <!-- TITLE: MAC Primer -->
 <!-- SUBTITLE: Media Access Control Primer -->
-<media property="og:site_name" content="wiki.wisp.live">
-<media property="og:title" content="Media Access Control Primer">
-<media property="og:description" content="The basics of how communicaiton works on access points">
-<media property="og:image" content="https://wiki.wips.live/uploads/foundations-wireless/accessory-blur-brass-859933-sm.jpg">
+<meta property="og:url" content="https://wiki.wisp.live/edit/foundations/wireless-mac" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="wiki.wisp.live" />
+<meta property="og:title" content="Wireless MAC Primer" />
+<meta property="og:description" content="Media Access Control basics for Outdoor Fixed Wireless Broadband" />
+<meta property="og:image" content="https://wiki.wips.live/uploads/foundations-wireless/accessory-blur-brass-859933-sm.jpg" />
 
 [Home](/) >> [Foundations](/foundations) >> MAC
 
