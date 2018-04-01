@@ -11,13 +11,21 @@ I began to become influential in the WISP industry in 2011 by following and cont
 I have continued deepening and widening my knowledge in the WISP industry by building and strengthening WISPs all around the world through consulting. My focus as a WISP consultant is “developing profitability”.
 
 ## Personal Links
+
 [Persobal Site](http://joshaven.com)
 [WISP Consulting](http://wisp.live)
 [Recognition by Cambium Networks as a professional WISP consultant](https://www.cambiumnetworks.com/ePMP_consultants/)
 [My LinkedIn](https://www.linkedin.com/in/joshaven/)
 
 ## Contacts
+
 [Email Me](mailto:josh@wisp.live)
+
+## Site Contributions
+
+* [Grounding and Bonding >> Foundation and Basics](/groundingandbonding/foundationsandbasics)
+* [Grounding and Bonding >> Links](/groundingandbonding/links)
+* [Wirelss Foundations >> Media Access Control](/foundations/wireless-mac)
 
 ## Donate
 
@@ -30,8 +38,3 @@ Please show your appreciation for my contributions with a donation to my persona
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </div>
-
-## Site Contributions
-* [Grounding and Bonding >> Foundation and Basics](/groundingandbonding/foundationsandbasics)
-* [Grounding and Bonding >> Links](/groundingandbonding/links)
-* [Wirelss Foundations >> Media Access Control](/foundations/wireless-mac)
