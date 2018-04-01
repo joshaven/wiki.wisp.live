@@ -1,7 +1,7 @@
 <!-- TITLE: Foundations -->
 <!-- SUBTITLE: A quick summary of Foundations -->
 
-# Basics
+# Wireless
 * [Wirelss Foundations:: Media Access Control](foundations/wireless-mac)
 
 ## TODO
@@ -14,3 +14,10 @@
 * Antennas
 * Frequency, Channels & Guard Bands
 * Regulatory Information 
+
+# Networking
+## TODO
+* Bridged vs Routed Networks
+* Use cases of MPLS
+* OSPF & BGP
+ 
