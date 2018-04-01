@@ -29,11 +29,15 @@ Choosing the right PtMP solution is not only a matter of finding the device that
 
 ## RF Fundimentails
 Place holder to discuss Radio Frequency Fundimentals
+* How we communicate over RF
 * Propagation
-* 
-
-## MCS Primer
-Place holder to discuss modulation & coding
+* Decibels
+* SNR & RSSI
+* MCS Primer
+* SISO, MIMO & MU-MIMO
+* Antennas
+* Frequency, Channels & Guard Bands
+* Regulatory Information 
 
 # Credits
 ## About the Author
