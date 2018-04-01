@@ -34,4 +34,4 @@ Please show your appreciation for my contributions with a donation to my persona
 ## Site Contributions
 * [Grounding and Bonding >> Foundation and Basics](/groundingandbonding/foundationsandbasics)
 * [Grounding and Bonding >> Links](/groundingandbonding/links)
-* [Foundations >> MAC](/foundations/wireless-mac)
+* [Foundations >> Wireless MAC](/foundations/wireless-mac)
