@@ -1,7 +1,7 @@
-<!-- TITLE: Wireless Foundations -->
-<!-- SUBTITLE: Foundations of Wireless System -->
+<!-- TITLE: MAC Primer -->
+<!-- SUBTITLE: Media Access Control Primer -->
 
-[Home](/) >> [Foundations](/foundations) >> Wireless
+[Home](/) >> [Foundations](/foundations) >> MAC
 
 # Communications
 All communication, whether human or electronic, is half or full duplex and delivered at various levels of complexity. Classic examples might be a full duplex telephone call versus a half-duplex CB Radio conversation, and low complexity Morse code versus a highly complex spoken language.
