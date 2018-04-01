@@ -5,7 +5,7 @@ This crowd sourced community wiki exists to further the WISP industry.  The view
 
 # Main Categories 
 * [Foundations](/foundations)
-  * [Wireless Foundations](/foundations/wireless)
+  * [Wireless Media Access Control](/foundations/wireless-mac)
 * [Grounding and Bonding](/groundingandbonding)
   * [Foundations and Basics](/groundingandbonding/foundationsandbasics)
   * [Links](/groundingandbonding/links)
