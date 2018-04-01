@@ -2,4 +2,15 @@
 <!-- SUBTITLE: A quick summary of Foundations -->
 
 # Basics
-* [Wirelss Foundations:: Foundations of Wireless System](/foundations/wireless)
+* [Wirelss Foundations:: Media Access Control](foundations/wireless-mac)
+
+## TODO
+* How we communicate over RF
+* Propagation
+* Decibels
+* SNR & RSSI
+* MCS Primer
+* SISO, MIMO & MU-MIMO
+* Antennas
+* Frequency, Channels & Guard Bands
+* Regulatory Information 
