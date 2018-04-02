@@ -6,7 +6,7 @@
 # PtMP MAC Primer
 <img src="/uploads/foundations-wireless/512-px-coolidge-public-address.jpg" alt="Coolidge Public Address" style="float:right;margin:1em;width:400px;max-width:90%;">
 
-I wish I would have understood the importance of MAC protocols when I first started building Outdoor Fixed Wireless Networks.
+I wish I would have understood more about MAC protocols when I first started building Outdoor Fixed Wireless Networks.  If you are new to the industry or might be interested in reading a brief primer on wireless MAC than this article is for you.
 
 As an analogy, if you are a public speaker than your going to be doing more talking than listening and you're hoping for an environment with low noise and little or no echo.  Otherwise, you may have to slow down and spend extra time with repeated questions and answers or you may not be understood.  An access point (AP) is much the same.  It would be a public address nightmare to spend all of your time talking to a guy in the back row who keeps asking you to repeat yourself and doesn't respect when others are speaking which is exactly what can happen in wireless networks with bad engineering.
 
