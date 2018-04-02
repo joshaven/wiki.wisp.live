@@ -10,3 +10,6 @@
 * [Military Handbook: Grounding, Bonding and Shielding for Electronic Equipments and Facilities Volume 1](/uploads/groundingandbonding/hdbk-419-a-vol-1.pdf "Hdbk 419 A Vol 1")
 * [Military Handbook: Grounding, Bonding and Shielding for Electronic Equipments and Facilities Volume 2](/uploads/groundingandbonding/hdbk-419-a-vol-2.pdf "Hdbk 419 A Vol 2")
 * [Polyphaser Guide](/uploads/groundingandbonding/polyphaser-guide.pdf "Polyphaser Guide")
+
+Here is a grounding and bonding photo guide by David Brender which demonstrates tower site alterations to a site that had regular loss of equipment before upgrading the grounding system which now has no equipment loss and no downtime with thousands of events recorded and one lightning strike personally witnessed.
+[Grounding Enneswrkshopmiramar 3 5 13](/uploads/groundingandbonding/grounding-enneswrkshopmiramar-3-5-13.pdf "Grounding Enneswrkshopmiramar 3 5 13")
