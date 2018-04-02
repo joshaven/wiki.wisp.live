@@ -3,7 +3,7 @@
 
 [Home](/) >> [Grounding and Bonding](/groundingandbonding) >> Links
 # Helpful links on grounding and sight design
-## Resources useful to explain the electric code and how it applie to Radio and Television Equipment
+## Resources useful to explain the electric code and how it applies to Radio and Television Equipment
 
 * [Mike Holt’s Illustrated Guide to ARTICLE 810 - RADIO AND TELEVISION EQUIPMENT](/uploads/groundingandbonding/radio-and-television-2014-nec-1.pdf "Radio And Television 2014 Nec 1")
 * [Antenna System Bonding and Grounding Requirements in the USA Whitham D. Reeve (© 2012 W. Reeve)](/uploads/groundingandbonding/antennasystemgroundingrequirements-reeve.pdf "Antennasystemgroundingrequirements Reeve")
