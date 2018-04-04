@@ -6,7 +6,7 @@
 I believe that grounding is one of the most often misunderstood topics for WISP's that can most benefit them.  I hope you will find these topics helpful.
 
 * [Foundations and Basics](/groundingandbonding/foundationsandbasics)
-* [Links](/groundingandbonding/links)
+* [Links - External Resources covering best practices, requirements and success stories](/groundingandbonding/links)
 
 ## Grounding topics that may be interesting to cover
 * AC System Grounding
