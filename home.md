@@ -16,7 +16,7 @@ A page dedicated to those who participate with this wiki:  [Authors](http://wiki
 
 ## Topics that may be of interest
 * Network Design
-* MikroTik
+* [MikroTik](/toolsandequipment/mikrotik)
 * [Netonix](/toolsandequipment/Netonix)
 * [UBNT](/toolsandequipment/UBNT)
 * Cambium
